@@ -1,2 +1,2 @@
-# nymph
-Functional library for Nim
+# nymph 0.0.2
+Experimental functional library for Nim.
