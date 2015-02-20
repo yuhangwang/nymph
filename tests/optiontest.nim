@@ -2,7 +2,8 @@
 
 # Copyright© 2015 Steven Dobay
 
-import unittest, macros, option, curry
+import unittest, macros
+import "../nymph/option", "../nymph/curry"
 
 proc gtThanZero(x: int): bool = x > 0
 proc madd(x, y: int): auto = x + y
